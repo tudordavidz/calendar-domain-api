@@ -13,6 +13,10 @@ The Calendar Domain API is a TypeScript library for managing calendar events, in
 
 To use this package in your project, follow these steps:
 
+npm install
+npm run build -> build the package
+npm run test -> run tests and coverage
+
 1. **Install the package**
 
 If you are developing this package locally and want to test it in another project, run:
