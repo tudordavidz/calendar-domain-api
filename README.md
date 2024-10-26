@@ -13,21 +13,21 @@ The Calendar Domain API is a TypeScript library for managing calendar events, in
 
 To use this package in your project, follow these steps:
 
-npm install
-npm run build -> build the package
-npm run test -> run tests and coverage
+npm install <br>
+npm run build -> build the package <br>
+npm run test -> run tests and coverage <br>
 
 1. **Install the package**
 
 If you are developing this package locally and want to test it in another project, run:
 
-Navigate to calendar-domain: cd path/to/calendar-domain
-Run in calendar-domain directory: npm link
+Navigate to calendar-domain: cd path/to/calendar-domain <br>
+Run in calendar-domain directory: npm link <br>
 
-Navigate to your project: cd path/to/your/project
-Run in your project: npm link calendar-domain
+Navigate to your project: cd path/to/your/project <br>
+Run in your project: npm link calendar-domain<br>
 
-Importing the Package
+Importing the Package <br>
 import { Calendar, createEvent, applyRecurrence, RecurrenceRule } from 'calendar-domain';
 
 2.  **Example Usage**
