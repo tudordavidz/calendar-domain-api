@@ -19,7 +19,7 @@ npm run test -> run tests and coverage <br>
 
 1. **Install the package**
 
-If you are developing this package locally and want to test it in another project, run:
+If you are developing this package locally and want to test it in another project:
 
 Navigate to calendar-domain: cd path/to/calendar-domain <br>
 Run in calendar-domain directory: npm link <br>
